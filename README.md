@@ -4,3 +4,5 @@
  借此主要实现了一些基本的布局和控件的使用以及简单的业务逻辑。数据的持久化依赖于ORMLite框架。
  
  更多功能将在未来的版本迭代中实现，包括加入过渡动画，加入周期打卡功能等
+
+![image](https://github.com/Guugemb/Android-Schedule-Assistant/blob/master/src/gifs/add.gif?raw=true) 
