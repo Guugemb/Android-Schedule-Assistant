@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
 
                     if (needAutoFill) {
                         mYear = Integer.parseInt(Objects.requireNonNull(bundle.getString("year")));
-                        mMonth = Integer.parseInt(Objects.requireNonNull(bundle.getString("month"))) - 1;
+                        mMonth = Integer.parseInt(Objects.requireNonNull(bundle.getString("month")));
                         mDay = Integer.parseInt(Objects.requireNonNull(bundle.getString("day")));
                         mHourOfday = Integer.parseInt(Objects.requireNonNull(bundle.getString("hour")));
                         mMinute = Integer.parseInt(Objects.requireNonNull(bundle.getString("minute")));
