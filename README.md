@@ -5,4 +5,12 @@
  
  更多功能将在未来的版本迭代中实现，包括加入过渡动画，加入周期打卡功能等
 
+![image](https://github.com/Guugemb/Android-Schedule-Assistant/blob/master/src/gifs/details.gif?raw=true) 
+
 ![image](https://github.com/Guugemb/Android-Schedule-Assistant/blob/master/src/gifs/add.gif?raw=true) 
+
+![image](https://github.com/Guugemb/Android-Schedule-Assistant/blob/master/src/gifs/alter.gif?raw=true) 
+
+![image](https://github.com/Guugemb/Android-Schedule-Assistant/blob/master/src/gifs/remove.gif?raw=true) 
+
+![image](https://github.com/Guugemb/Android-Schedule-Assistant/blob/master/src/gifs/notification.gif?raw=true) 
